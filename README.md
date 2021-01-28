@@ -2,7 +2,7 @@
 
 TrabajoPracticoMaquinasDeEstados-SensoresImpresora
 
-#memoria descripiva
+# memoria descripiva
 
 el programa se encarga de administrar los sensores de una impresora con un archivo que setea los niveles minimos de tinta para cada color
 
@@ -16,7 +16,7 @@ caso contrario si los sensores de tinta marcan mas de los minimos indicados y ha
 
 la impresora se mantedra sensando y pasando entre estos 2 estados
 
-##digrama de estados y trasicones
+## digrama de estados y trasicones
 
 ![./recursos/estados.jpg](https://github.com/FranciscoMerena/TrabajoPracticoMaquinasDeEstados-SensoresImpresora/blob/main/recursos/estados.jpg)
 
