@@ -1,5 +1,7 @@
 # TrabajoPracticoMaquinasDeEstados-SensoresImpresora
+
 TrabajoPracticoMaquinasDeEstados-SensoresImpresora
+
 #memoria descripiva
 
 el programa se encarga de administrar los sensores de una impresora con un archivo que setea los niveles minimos de tinta para cada color
