@@ -1,2 +1,0 @@
-# TrabajoPracticoMaquinasDeEstados-SensoresImpresora
-TrabajoPracticoMaquinasDeEstados-SensoresImpresora
